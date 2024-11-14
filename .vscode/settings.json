@@ -1,0 +1,5 @@
+{
+  "deepscan.enable": true,
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/52e38661-fb49-42b1-ab76-c72ed0893d66/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/odinmarkets",
+  "appService.deploySubpath": "."
+}

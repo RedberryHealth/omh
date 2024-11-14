@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://odinmarkets.com
+
+# Sitemaps
+Sitemap: https://odinmarkets.com/sitemap.xml
